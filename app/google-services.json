@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "182987124907",
+    "firebase_url": "https://my-pet-6695a-default-rtdb.firebaseio.com",
+    "project_id": "my-pet-6695a",
+    "storage_bucket": "my-pet-6695a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182987124907:android:ea7bfbea16b8f2316b47ee",
+        "android_client_info": {
+          "package_name": "com.example.mypetapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182987124907-ctn6et227dsj21ub6sal62svdg3lko4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlmit34arePWCE29Ioii5t5sNDJVx7Uzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182987124907-ctn6et227dsj21ub6sal62svdg3lko4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:182987124907:android:950d8c40848e40a16b47ee",
+        "android_client_info": {
+          "package_name": "com.example.mypetloginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "182987124907-ctn6et227dsj21ub6sal62svdg3lko4l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlmit34arePWCE29Ioii5t5sNDJVx7Uzk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "182987124907-ctn6et227dsj21ub6sal62svdg3lko4l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:padding="20dp"
+    tools:context=".Dos">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="105dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="sans-serif"
+                android:text="Do's"
+                android:textStyle="bold"
+                android:textColor="#000"
+                android:textSize="25sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+
+                android:drawablePadding="10dp"
+                android:layout_marginBottom="10dp"
+                android:text="1.)Meal Related"
+                android:textColor="#000"
+                android:textSize="25sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Make sure you provide two dishes, one for food and one for water and they should be quite separate from each other"
+                android:textSize="25sp"
+                android:textColor="#000"
+                android:layout_marginBottom="10dp"
+                android:drawableLeft="@drawable/baseline_circle_24"
+                android:drawablePadding="10dp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/baseline_circle_24"
+                android:drawablePadding="10dp"
+                android:text=" It is preferable to feed pets with pet food that is specifically designed to fulfill their nutritional needs rather than human food"
+                android:textColor="#000"
+                android:layout_marginBottom="10dp"
+                android:textSize="25sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/baseline_circle_24"
+                android:drawablePadding="10dp"
+                android:text=" Pets should always be fed in clean bowls. To ensure this, one should use steel or ceramic bowls as they can be cleaned easily"
+                android:textColor="#000"
+                android:layout_marginBottom="10dp"
+                android:textSize="25sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="DONT'S"
+                android:textStyle="bold"
+                android:textColor="#000"
+                android:textSize="25sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/baseline_circle_24"
+                android:drawablePadding="10dp"
+                android:text="Avoid feeding your pets with excessive treats as it may fill them but will not be providing the nutrition needed by their body"
+                android:textColor="#000"
+                android:textSize="25sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/baseline_circle_24"
+                android:drawablePadding="10dp"
+                android:text=" Never give chocolate to your pet because it might be harmful to their health"
+                android:textColor="#000"
+                android:textSize="25sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/baseline_circle_24"
+                android:drawablePadding="10dp"
+                android:text=" Keep your pet away from heat-absorbing surfaces like metal or asphalt. Animals can burn their paws and the heat from their feet can also increase their core body temperature."
+                android:textColor="#000"
+                android:textSize="25sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/baseline_circle_24"
+                android:drawablePadding="10dp"
+                android:text="Pets should not be overfed. They should be fed according to their body weight, age, and level of activity. The amount of food should not be reduced or increased because both can be damaging to the pet"
+                android:textColor="#000"
+                android:textSize="25sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/baseline_circle_24"
+                android:drawablePadding="10dp"
+                android:text="To prevent any kind of infection do not forget to wash your pet’s containers regularly. Lack of cleaning can lead to cause disease in pets"
+                android:textColor="#000"
+                android:textSize="25sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="2.)Grooming related"
+                android:textColor="#000"
+                android:textSize="25sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/baseline_circle_24"
+                android:drawablePadding="10dp"
+                android:text="Brush your pet's coat regularly to prevent matting and tangling. This will also help distribute their natural oils and promote a healthy coat."
+                android:textColor="#000"
+                android:textSize="25sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/baseline_circle_24"
+                android:drawablePadding="10dp"
+                android:text="Trim your pet's nails regularly to prevent overgrowth, which can cause discomfort and even lead to infection."
+                android:textColor="#000"
+                android:textSize="25sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/baseline_circle_24"
+                android:drawablePadding="10dp"
+                android:text="Bathe your pet regularly using a pet-friendly shampoo to keep their skin clean and healthy."
+                android:textColor="#000"
+                android:textSize="25sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="DONT'S"
+                android:textColor="#000"
+                android:textSize="25sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/baseline_circle_24"
+                android:drawablePadding="10dp"
+                android:text="Do not use human grooming products on your pets, as they can be harmful to their skin and coat."
+                android:textColor="#000"
+                android:textSize="25sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/baseline_circle_24"
+                android:drawablePadding="10dp"
+                android:text="Do not forget to check your pet's skin for any unusual bumps or lumps during the grooming process"
+                android:textColor="#000"
+                android:textSize="25sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/baseline_circle_24"
+                android:drawablePadding="10dp"
+                android:text="Do not shave your pet's coat unless it is necessary for medical reasons, as their coat provides protection from the elements and regulates their body temperature."
+                android:textColor="#000"
+                android:textSize="25sp" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/baseline_circle_24"
+                android:drawablePadding="10dp"
+                android:text="3.) Vaccine related"
+                android:textColor="#000"
+                android:textSize="25sp" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/baseline_circle_24"
+                android:drawablePadding="10dp"
+                android:text="DO'S"
+                android:textColor="#000"
+                android:textSize="25sp" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/baseline_circle_24"
+                android:drawablePadding="10dp"
+                android:text="Vaccinate your pets to protect them from infectious diseases that can be harmful or even fatal."
+                android:textColor="#000"
+                android:textSize="25sp" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/baseline_circle_24"
+                android:drawablePadding="10dp"
+                android:text="Follow your veterinarian's recommended vaccination schedule based on your pet's age, health status, and lifestyle."
+                android:textColor="#000"
+                android:textSize="25sp" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/baseline_circle_24"
+                android:drawablePadding="10dp"
+                android:text="Discuss any concerns or questions with your veterinarian before vaccinating your pet."
+                android:textColor="#000"
+                android:textSize="25sp" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/baseline_circle_24"
+                android:drawablePadding="10dp"
+                android:text="DONT'S"
+                android:textColor="#000"
+                android:textSize="25sp" />
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/baseline_circle_24"
+                android:drawablePadding="10dp"
+                android:text="Do not administer vaccines to your pet without consulting a licensed veterinarian."
+                android:textColor="#000"
+                android:textSize="25sp" />
+
+
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/baseline_circle_24"
+                android:drawablePadding="10dp"
+                android:text="Do not vaccinate your pet if they are sick or have a weakened immune system."
+                android:textColor="#000"
+                android:textSize="25sp" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:drawableLeft="@drawable/baseline_circle_24"
+                android:drawablePadding="10dp"
+                android:text="Do not assume that all pets require the same vaccines. Your pet's vaccination needs will depend on their lifestyle and risk of exposure to certain diseases"
+                android:textColor="#000"
+                android:textSize="25sp" />
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
